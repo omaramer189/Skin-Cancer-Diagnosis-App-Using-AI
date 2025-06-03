@@ -34,6 +34,9 @@ Skin-Cancer-Diagnosis-App-Using-AI/
 ├── templates/ # Optional HTML view
 └── flutter_app/ # Flutter frontend (optional folder)
 
+flutter_app/screenshots/result_demo.png
+
+
 
 ## 🖼️ Model Summary
 
