@@ -1,0 +1,4 @@
+model/skin_model.h5
+*.h5
+__pycache__/
+*.ipynb_checkpoints
