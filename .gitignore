@@ -2,3 +2,34 @@ model/skin_model.h5
 *.h5
 __pycache__/
 *.ipynb_checkpoints
+
+# Flutter/Dart
+flutter_app/.dart_tool/
+flutter_app/.packages
+flutter_app/.pub-cache/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/build/
+flutter_app/coverage/
+flutter_app/pubspec.lock
+
+# iOS
+flutter_app/ios/Pods/
+flutter_app/ios/Runner.xcworkspace/
+flutter_app/ios/build/
+
+# Android
+flutter_app/android/.gradle/
+flutter_app/android/.idea/
+flutter_app/android/local.properties
+flutter_app/android/app/build/
+
+# macOS
+flutter_app/macos/Flutter/ephemeral/
+flutter_app/macos/build/
+
+# VS Code
+flutter_app/.vscode/
+
+# Logs
+*.log
