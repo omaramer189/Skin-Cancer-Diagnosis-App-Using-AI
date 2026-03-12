@@ -1,4 +1,4 @@
-# Skin-Cancer-Diagnosis-App-Using-AI
+# Skin-Cancer-Diagnosis App Using AI
 
 A mobile-based AI system that detects skin cancer from image input. Built with a CNN model in Python, deployed via Flask on AWS, and integrated with a Flutter mobile frontend.
 
@@ -24,15 +24,6 @@ A mobile-based AI system that detects skin cancer from image input. Built with a
 4. Flask returns a diagnosis ("Cancer Detected" or "No Cancer")
 5. The mobile app displays the result to the user
 
-## 📁 Project Structure
-
-Skin-Cancer-Diagnosis-App-Using-AI/
-├── app.py # Flask backend
-├── model/skin_model.h5 # Trained CNN model
-├── requirements.txt # Python dependencies
-├── static/ # Sample image input (optional)
-├── templates/ # Optional HTML view
-└── flutter_app/ # Flutter frontend (optional folder)
 
 ## 🖼️ App Demo
 
